@@ -1,5 +1,5 @@
 # https://github.com/DANIEL-CHRISTIAN-KIZITO/Kizito_Daniel_Junior.git
-
+#inventoryapp
 class Stock:
     def update(self):
         print("Stock updated in central inventory system")
