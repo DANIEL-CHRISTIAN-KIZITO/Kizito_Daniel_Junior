@@ -1,3 +1,5 @@
+#Error handling
+
 while True:
     try:
         # Ask for input

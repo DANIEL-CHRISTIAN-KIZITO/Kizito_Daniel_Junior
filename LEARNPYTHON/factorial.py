@@ -1,3 +1,4 @@
+#Lambda
 from functools import reduce
 
 # Factorial using lambda

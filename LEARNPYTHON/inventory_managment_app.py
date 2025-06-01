@@ -5,7 +5,7 @@
 # Initial inventory (item: quantity)
 inventory = {
     "Dresses": 10,
-    "Trausers": 20,
+    "Trausers": 25,
     "Shirts": 15
 }
 

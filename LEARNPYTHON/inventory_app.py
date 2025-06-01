@@ -10,6 +10,7 @@ class Warehouse:
         print("Stock updated in warehouse")
 
 # Store inherits from both Stock and Warehouse
+
 class Store(Stock, Warehouse):
     pass
 
